@@ -1,0 +1,45 @@
+.section-header {
+    background-color: rgb(99, 159, 248);
+    padding: 15px;
+    border-radius: 0 0 5px 5px;
+    color: white;
+}
+
+.container-form {
+    margin-top: 20px;
+    margin-left: 40%;
+    margin-bottom: 10px;
+}
+
+.alert {
+    margin-right: 64% !important;
+}
+
+.btn {
+    border: 1px solid black;
+    box-shadow: 2px 2px 1px grey;
+}
+
+.input {
+    padding: 3px 0 8px 0;
+    border: 1px solid black;
+    border-radius: 3px;
+    box-shadow: 2px 2px 1px grey;
+}
+
+.title {
+    font-size: larger;
+    font-weight: 500;
+}
+
+.card {
+    display: inline-block;
+    margin: 5px;
+    box-shadow: 5px 5px 2px grey;
+    width: 15rem;
+}
+
+.btn-sm {
+    padding: 0 8px 0 8px;
+    float: right;
+}
